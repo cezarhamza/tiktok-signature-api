@@ -303,7 +303,7 @@ Interested? Let's talk follow the [link](https://github.com/EterZ-byte) on our p
 
 **Built by engineers who prefer algorithms over browsers**
 
-[⭐ Star us on GitHub](https://github.com/yourusername/tiktok-signature-api) • [🐛 Report Issues](https://github.com/yourusername/tiktok-signature-api/issues)
+[⭐ Star us on GitHub](https://github.com/EterZ-byte/tiktok-signature-api) • [🐛 Report Issues](https://github.com/EterZ-byte/tiktok-signature-api/issues)
 
 </div>
 
